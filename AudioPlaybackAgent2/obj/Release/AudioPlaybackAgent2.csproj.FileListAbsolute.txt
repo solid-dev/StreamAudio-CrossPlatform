@@ -1,0 +1,4 @@
+C:\Users\Duc Nhat\Documents\Visual Studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\Bin\Release\AudioPlaybackAgent2.dll
+C:\Users\Duc Nhat\Documents\Visual Studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\Bin\Release\AudioPlaybackAgent2.pdb
+C:\Users\Duc Nhat\Documents\Visual Studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\obj\Release\AudioPlaybackAgent2.dll
+C:\Users\Duc Nhat\Documents\Visual Studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\obj\Release\AudioPlaybackAgent2.pdb

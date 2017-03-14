@@ -1,0 +1,4 @@
+c:\users\duc nhat\documents\visual studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\Bin\Debug\AudioPlaybackAgent2.dll
+c:\users\duc nhat\documents\visual studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\Bin\Debug\AudioPlaybackAgent2.pdb
+c:\users\duc nhat\documents\visual studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\obj\Debug\AudioPlaybackAgent2.dll
+c:\users\duc nhat\documents\visual studio 2015\Projects\StreamAudio.XF\AudioPlaybackAgent2\obj\Debug\AudioPlaybackAgent2.pdb
